@@ -1,4 +1,7 @@
 ## Hi there 👋
+Meu nome é Ana Beatriz, tenho 16 anos 
+Sou estudante do Alura da escola Laura de Mello
+
 
 <!--
 **aninhah7/aninhah7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
